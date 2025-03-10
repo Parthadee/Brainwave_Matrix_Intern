@@ -1,3 +1,4 @@
+# Trading Analytics: Performance Evaluation of Binance Accounts
 <img src= "image/banner.jpeg" />
 
 **Overview:** This project focuses on analyzing the Diwali Sales dataset obtained from Kaggle through exploratory data analysis (EDA). The goal is to gain valuable insights from the data and use them to improve business strategies effectively. Additionally, an interactive sales dashboard was created using Power BI to visualize key insights.
