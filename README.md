@@ -52,8 +52,8 @@ Analyzed social media data (e.g., Twitter) to understand public sentiment toward
 
 ### 🔹 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/brainwave-matrix-solutions.git
-cd brainwave-matrix-solutions
+git clone https://github.com/Parthadee/Brainwave_Matrix_Intern.git
+cd Brainwave_Matrix_Intern
 ```
 
 ### 🔹 Install required dependencies:
